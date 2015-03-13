@@ -64,7 +64,7 @@ def getDatasetListforTag(tag = None, l = None, verbose = False):
 			    	dataset["title"],
 			    	dataset["name"],
 			    	dataset["owner_org"],
-			    	dataset["maintainer"],
+			    	dataset["maintainer"].encode('utf-8'),
 			    	dataset["maintainer_email"],
 			    	dataset["revision_timestamp"],
 			    	dataset["id"],
@@ -73,7 +73,7 @@ def getDatasetListforTag(tag = None, l = None, verbose = False):
 			    	len(dataset["extras"])
 			    	])
 
-			except Exception as e:
+			except Exception as e:				
 				err = color("ERROR", "red", attrs=['bold'])
 				rec = color(record_counter, "yellow", attrs=['bold'])
 				print "%s : record %s failed to write." % (err, rec)

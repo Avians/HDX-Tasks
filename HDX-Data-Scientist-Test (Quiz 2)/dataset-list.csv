@@ -1,4 +1,4 @@
-title,name,owner_org,maintainer,revision_timestamp,id,num_resources,num_tags,num_extras
+title,name,owner_org,maintainer,maintainer_email,revision_timestamp,id,num_resources,num_tags,num_extras
 Liberia ETU Constructions,etu-constructions,9c70ec4d-0ac8-42fa-b7c0-2ce9a29df5cf,John Holloway,jeholloway@verizon.net,2014-10-27T20:46:38.021858,17f074a0-1a09-499f-a5a4-85a3090a5646,2,6,9
 "Health facilities in Guinea, Liberia, Mali and Sierra Leone",health-facilities-in-guinea-liberia-mali-and-sierra-leone,25af272f-c07c-4bca-8472-7405f84f6713,godfrey,takavarasha@un.org,2015-02-13T22:35:09.199679,ce876595-1263-4df6-a8ca-459f92c532e4,5,11,10
 Food Prices Datasets for the Ebola-affected countries,food-prices-datasets-for-the-ebola-affected-countries,3ecac442-7fed-448d-8f78-b385ef6f84e7,Wael Attia,wael.attia@wfp.org,2014-11-06T10:27:16.253049,5136d698-1a78-45dc-acb6-88c6fd0b3187,1,6,10
@@ -8,7 +8,7 @@ Sierra Leone - Ebola: WFP VAM Food Security Reduced Coping Strategies Index and 
 Lat/Long/Names of ETUs in Liberia updated as of 21 Oct,lat-long-names-of-etus-updated-as-of-21-oct,9c70ec4d-0ac8-42fa-b7c0-2ce9a29df5cf,ditaanggraeni,anggraeni@un.org,2015-02-13T20:44:44.365387,daab3d96-1086-4bbe-be25-b63c490f090d,1,5,10
 Proportion of households with poor and borderline food consumption in Sierra Leone,proportion-of-households-with-poor-and-borderline-food-consumption-in-sierra-leone,3ecac442-7fed-448d-8f78-b385ef6f84e7,luiscape,capelo@un.org,2015-02-13T21:15:54.401530,16dca78d-3d9a-440d-bb75-5b0b4c42d291,1,5,10
 Guinea - Ebola: WFP VAM Food Security Reduced Coping Strategies Index and Price Data,guinea-ebola-wfp-vam-food-security-reduced-coping-strategies-index-and-price-data,3ecac442-7fed-448d-8f78-b385ef6f84e7,Wael Attia,wael.attia@wfp.org,2014-11-07T10:13:41.846531,abc5eb9b-1e59-446c-adde-e43df4ac7e82,1,10,10
-NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+OpenStreetMap ShapeFiles for GIS softwares (Daily updates),openstreetmap-shapefiles-for-gis-softwares-daily-updates,225b9f7d-e7cb-4156-96a6-44c9c58d31e3,Pierre Béland,pierzenh@yahoo.fr,2014-11-28T21:41:58.298279,3df58a64-0003-4dd9-ae45-78b056cdf117,4,8,10
 Commonly Used Abbreviations in United Nations Logistics,commonly-used-abbreviations-in-united-nations-logistics,51822ad1-997d-4e10-9e83-cb8996cb2b59,Sara Terp,sarajterp@gmail.com,2014-11-03T10:41:05.248338,554f9c02-5b57-43b6-8c13-27ff3f94be09,1,3,6
 Ebola Community Care Centers,ebola-community-care-centers,58227a56-47e9-465e-aeaa-7785eadc7593,UNMEER IM - unmeerim@gmail.com,unmeerim@gmail.com,2014-12-03T11:47:19.246960,7acbee6b-3a33-4d08-a0ae-232e90330c1c,4,5,10
 Guinea 3W Ebola Response,guinea-3w-dataset,1dc0be0c-1457-4537-a169-328fad39e567,luiscape,capelo@un.org,2015-03-04T13:35:58.163350,417c7202-fe32-4f60-b54b-d06d4d6e18c1,1,3,10
@@ -41,8 +41,8 @@ Sierra Leone: Education Establishments,sierra-leone-education-establishments,hdx
 Mobility patterns and population densities for West Africa,mobility-patterns-west-africa,7ade0264-0c7b-4ddc-a817-8c4e02dc7494,"A. Wesolowski, L. Bengtsson, C.O. Buckee, X. Lu,  E. Wetter, A. J. Tatem",andy.tatem@gmail.com and linus.bengtsson@flowminder.org,2014-10-15T21:11:47.998014,fea7b27d-a5f0-4b3e-9706-be8e6a0f26e2,2,9,10
 "OpenStreetMap GIS data on Guinea, Liberia, and Sierra Leone",open-street-map-data-on-guinea-liberia-and-sierra-leone,hdx,GeoFabrik,http://www.geofabrik.de/,2014-10-02T17:32:23.811761,c37b3e22-2622-45e4-bcf4-269d69b35b7b,3,7,10
 Shape Files of the ETUs,shape-files-of-the-etus,9c70ec4d-0ac8-42fa-b7c0-2ce9a29df5cf,luiscape,capelo@un.org,2015-02-13T21:41:54.918352,e2d5722f-93cf-4587-83c7-a4d297b3086b,1,5,10
-NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"OpenStreetMap Settlement Place Names, West Africa",openstreetmap-settlement-place-names-west-africa,225b9f7d-e7cb-4156-96a6-44c9c58d31e3,Pierre Béland,pierzenh@yahoo.fr,2014-11-28T20:50:37.056232,53c4b579-7e0a-49a2-8bd2-f882d2577d72,6,8,10
+"OpenStreetMap Small Devices Offline Map & Navigation data, West Africa",osmand-openstreetmap-map-navigation-data-on-small-devices,225b9f7d-e7cb-4156-96a6-44c9c58d31e3,Pierre Béland,pierzenh@yahoo.fr,2014-11-28T20:49:47.083367,25cb650e-a47b-40db-965f-609f27f1c2b1,2,9,10
 Data for Ebola Recovery,data-for-ebola-recovery,7fdf4b36-af37-4bc2-8d35-e2d255876f6d,benmorse,bmorse@mit.edu,2015-02-18T19:06:57.233835,ec107887-e477-43ad-acfd-10b7104e7645,2,6,10
 WFP Indicators,wfp-indicators,3ecac442-7fed-448d-8f78-b385ef6f84e7,Loyse Tabin,Loyse.tabin@wfp.org,2014-10-28T17:24:55.845743,c52a9eb3-87d7-4da3-ad4c-f00868a1ab6b,1,3,9
 Sierra Leone NERC Ebola Care Facilities Master List,sierra-leone-nerc-ebola-care-facilities-master-list,58227a56-47e9-465e-aeaa-7785eadc7593,steve_unmeer,stevesesay.ss@gmail.com,2015-03-09T14:36:48.405402,bb38d54b-59a1-4b95-b04f-efc98b120230,1,7,10
