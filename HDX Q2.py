@@ -53,7 +53,7 @@ def getDatasetListforTag(tag = None, l = None, verbose = False):
         f = csv.writer(open(l, "wb+"))
         
         # Write headers.
-        f.writerow(["title", "name", "owner_org", "maintainer", "revision_timestamp", "id", "num_resources", "num_tags", "num_extras"])
+        f.writerow(["title", "name", "owner_org", "maintainer", "maintainer_email", "revision_timestamp", "id", "num_resources", "num_tags", "num_extras"])
         
         # Write records.
         record_counter = 0
@@ -69,7 +69,7 @@ def getDatasetListforTag(tag = None, l = None, verbose = False):
 			    	dataset["revision_timestamp"],
 			    	dataset["id"],
 			    	dataset["num_resources"],
-			    	dataset["num_tags"],
+			    	dataset["num_tags"],			    	
 			    	len(dataset["extras"])
 			    	])
 
